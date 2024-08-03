@@ -1,0 +1,18 @@
+/* Style for the input, button, and result display */
+#numbersInput {
+  padding: 10px;
+  font-size: 16px;
+}
+
+#calculateAverageBtn {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+#result {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
